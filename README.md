@@ -1,0 +1,1 @@
+# lg-home-inspections
