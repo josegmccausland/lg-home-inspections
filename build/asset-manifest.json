@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "./static/css/main.40474172.chunk.css",
+    "main.js": "./static/js/main.eb41666c.chunk.js",
+    "main.js.map": "./static/js/main.eb41666c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.7dbe49cd.js",
+    "runtime-main.js.map": "./static/js/runtime-main.7dbe49cd.js.map",
+    "static/css/2.82a37e40.chunk.css": "./static/css/2.82a37e40.chunk.css",
+    "static/js/2.94e51e92.chunk.js": "./static/js/2.94e51e92.chunk.js",
+    "static/js/2.94e51e92.chunk.js.map": "./static/js/2.94e51e92.chunk.js.map",
+    "static/js/3.81fdd860.chunk.js": "./static/js/3.81fdd860.chunk.js",
+    "static/js/3.81fdd860.chunk.js.map": "./static/js/3.81fdd860.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/2.82a37e40.chunk.css.map": "./static/css/2.82a37e40.chunk.css.map",
+    "static/css/main.40474172.chunk.css.map": "./static/css/main.40474172.chunk.css.map",
+    "static/js/2.94e51e92.chunk.js.LICENSE.txt": "./static/js/2.94e51e92.chunk.js.LICENSE.txt",
+    "static/media/condo.0d817e0a.svg": "./static/media/condo.0d817e0a.svg",
+    "static/media/contact.7b0446ae.svg": "./static/media/contact.7b0446ae.svg",
+    "static/media/App.css": "./static/media/home-inspector.25df1b4d.jpg",
+    "static/media/home.5d11cd74.svg": "./static/media/home.5d11cd74.svg",
+    "static/media/inspector.116729a5.jpg": "./static/media/inspector.116729a5.jpg",
+    "static/media/lg-logo.158c93b7.jpg": "./static/media/lg-logo.158c93b7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7dbe49cd.js",
+    "static/css/2.82a37e40.chunk.css",
+    "static/js/2.94e51e92.chunk.js",
+    "static/css/main.40474172.chunk.css",
+    "static/js/main.eb41666c.chunk.js"
+  ]
+}
